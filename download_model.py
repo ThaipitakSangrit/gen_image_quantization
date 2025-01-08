@@ -5,7 +5,7 @@ import os
 model_id = "stabilityai/stable-diffusion-3.5-medium"
 
 # เพิ่ม Token
-token = "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"
+token = "hf_xxxxxxx"
 
 # ดึงรายชื่อไฟล์ทั้งหมดใน repository ของโมเดล
 try:
